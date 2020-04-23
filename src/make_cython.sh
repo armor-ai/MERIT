@@ -1,0 +1,1 @@
+python build_pyx.py build_ext --inplace
