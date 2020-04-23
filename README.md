@@ -18,15 +18,15 @@ rating******review text******title******date******version******nation
 ```
 
 ## Usage
-1. Install python dependence packages for IDEA:
+1. Install python dependence packages for MERIT:
 
 ```
-$ cd IDEA/
+$ cd MERIT/
 $ ./install.sh
 ```
-IDEA is built on Python2.7 under Linux or iOS, add `sudo` before the installation command if you need administrator permission.
+MERIT is built on Python2.7 and Python3.7 under Linux or iOS, add `sudo` before the installation command if you need administrator permission.
 
-2. **Notice:** If this is the first time to use IDEA in your computer, you need to compile pyx and c. Also make sure `_lda.c` and `_lda.so` have been deleted before running the command:
+2. **Notice:** If this is the first time to use MERIT in your computer, you need to compile pyx and c. Also make sure `_lda.c` and `_lda.so` have been deleted before running the command:
 
 ```
 $ cd src/
@@ -51,7 +51,7 @@ Researchers interested in obtaining the the full dataset (including the validati
 ```
 $ python get_input <result_folder> <topic_number>
 
-result_folder ----- the output dir of IDEA, should contain apk name, e.g., '../result/youtube/'
+result_folder ----- the output dir of MERIT, should contain apk name, e.g., '../result/youtube/'
 topic_nubmer  ----- the number of topics
 ```
 

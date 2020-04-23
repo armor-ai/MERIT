@@ -53,6 +53,7 @@ fabric.properties
 *.DS_Store
 model/*
 result/*
+src/*.pyc
 # dataset/*
 !model/.gitkeep
 !result/.gitkeep
