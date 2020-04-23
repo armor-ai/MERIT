@@ -74,7 +74,7 @@ $ python main.py
 
 ## Related Link
 
-* [IDEA](https://github.com/armor-ai/IDEA) (https://github.com/armor-ai/IDEA), our previous work on emerging issue detection.
+* [IDEA](https://github.com/armor-ai/IDEA), our previous work on emerging issue detection.
 * [ARMOR](https://remine-lab.github.io/), our work on app review analysis, where you can see our other work.
 
 ## Contributors
