@@ -1,8 +1,6 @@
 # MERIT
 MERIT (iMproved EmeRging Issue deTection) is a framework for detecting emerging issues from version-sensitive app reviews.
 
-<p align="center"><img width="70%" src="framework.png" /></p>
-
 MERIT includes:
  * A novel online topic modeling approach which can automatically trace the changes of topics and associated sentiment along with versions for short texts;
  * A novel topic labeling approach which considers both embedding-level and topic-level semantic similarities for labeling topics with representative phrases and sentences;
@@ -78,6 +76,12 @@ $ python main.py
 
 * [IDEA](https://github.com/armor-ai/IDEA) (https://github.com/armor-ai/IDEA), our previous work on emerging issue detection.
 * [ARMOR](https://remine-lab.github.io/), our work on app review analysis, where you can see our other work.
+
+## Contributors
+* [zengjichuan](https://github.com/zengjichuan)
+* [Zhiyuan](https://github.com/preke)
+* [cuiyungao](https://github.com/cuiyungao)
+
 
 ## History
 2019-4-23: first version of MERIT
